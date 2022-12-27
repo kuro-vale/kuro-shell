@@ -7,4 +7,4 @@ Codewars discourage sharing solutions, that's why I only share my 8 kyu solution
 
 ### Current Shell rank
 
-![Shell Rank](https://shields.io/badge/-7%20kyu-white?logo=windowsterminal&style=for-the-badge&logoColor=89e051)
+![Shell Rank](https://shields.io/badge/-6%20kyu-white?logo=windowsterminal&style=for-the-badge&logoColor=89e051)
